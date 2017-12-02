@@ -1,4 +1,11 @@
 <application>
+  <component name="DiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="CommitDialog">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="CommitDialog">
@@ -6,8 +13,8 @@
       </entry>
       <entry key="TestsFiledAssertions">
         <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="SHOW_INDENT_LINES" value="true" />
+          <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
     </option>
